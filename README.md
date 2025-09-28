@@ -6,9 +6,9 @@ A Node.js-based backend API powering the TweetTube platform (a fusion of Twitter
 
 User authentication (signup/login),
 JWT-based authorization,
-CRUD operations for posts and media
-Modular folder structure
-Express.js routing
+CRUD operations for posts and media,
+Modular folder structure,
+Express.js routing,
 All youtube features included
 
 🚀 Getting Started
