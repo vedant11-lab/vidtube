@@ -20,7 +20,7 @@ MongoDB
 
 Installation
 
-git clone
+git clone https://github.com/vedant11-lab/vidtube.git
 cd backend_project
 npm install
 
